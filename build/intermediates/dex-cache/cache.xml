@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_155d902a670be373544e4a70e46c7e31e79d5c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_2e5c518ca395ad5eef69534b54f84e53f34baafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_9f8d7a74ff66910da16a60bd9619dee8f05f108a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/gson-2.7_8e8e9af24102e08179524ef55aba15fb6187cf89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/8cc091f2af7549646609caa804cbee44c9e7503a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_bdb19d9ed8b70e1362d77bf22ccb021f71ffe6a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/94e1e15a70611b91fada8d9b455d84c0db4795eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_3a46404f15500608df402235ccfc0e6f700a33fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/419e980d75dde05b4dc56e791775b75f8f8450c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_ef9bb85aa3fc6793c8d59e9a521021f1ca850b07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_b2206218e64e5d54cdfd8c0a6ffdfbd213a9c2a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/e7a7ac5c127fa52e406aef983938e8b45718100c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_5231b433795d990168e0c8934faa29716fc91dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/34da5e7d355fcd577114492461fc02359c91eda6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_a9ef565df8791faf321fcee4ef2a8dd890b11e29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_d9538eab17597d2c8cc6be1acdd57d3fea0564d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/61a8d7f95ce22f1402ddae896eae92ac369e1a94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_e933cfec7ea1a773d72e10b03030d8a811999244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/8724b00e5aec3079d3e9683a81be22f3e1232504/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_512a050d09af19d43ff179a6ff86140384654d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/okio-1.13.0_a3d7e355dfaae46c30f1dd92fd07b0a73dec7bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/38de0982816476d666296c2ab393e831c003d417/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_32fda99c2d96449bc838a80c7ee35e531d47ea50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_259e08b589312f50cfbbd83819ba454bde3d58ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/3ad06f8132b9bcb701ffeb63889b01eab2edc236/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_19b56b2f2c8de7aa8319caf83ed5283d223ab6aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/6b8cd3a28d56bb8bfe535d5abaf1a3c76189548c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_04096b7aacd4420bd3de7132c8978781d346f7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/bac195add18b6ee3ab8810ca7056224af1e02264/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_0a6ba8533557446305e2f54c62a28a3c4b9ffaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/1c811fa70fb08db3b231f9ca855923d65879fbc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_ac6e3896e9ea5c78b80fc8171583d13df568dc31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8549b2cdee396b259ec2c10bdf1a301d2f1606a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/e6b835c59d3115906df3dd6b8c78cda341e219e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_269876e5005acc8819a4799fb2ac0b03e0027f16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/e164449bc5466fdf7a8ef5e644f33d7ddf3180ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_a26b990c9f4b4bf8aa685a1478dec4f06fa57539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/iago92/.android/build-cache/5d3a1c5dd5d63c1efb5050bfd260166b0eeeccad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/iago92/AndroidStudioProjects/NewsApp/app/build/intermediates/pre-dexed/debug/classes_d257f4b487b3e75eb9bf541ed7b53c8ea6461166.jar" />
+    </item>
+
+</items>

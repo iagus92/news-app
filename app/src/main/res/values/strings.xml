@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="articles">Artículos</string>
+    <string name="resources">Recursos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="exit">Salir</string>
+    <string name="sports">Deportes</string>
+    <string name="business">Negocios</string>
+    <string name="entertainment">Entretenimiento</string>
+    <string name="gaming">Gaming</string>
+    <string name="general">General</string>
+    <string name="music">Música</string>
+    <string name="politics">Política</string>
+    <string name="science">Ciencia</string>
+    <string name="tech">Tecnología</string>
+    <string name="article">Artículo</string>
+    <string name="webView">webView</string>
+    <string name="readMore">Leer más</string>
+    <string name="savedArticles">Artículos guardados</string>
+</resources>
