@@ -7,12 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
-
+import android.view.View;
 import com.example.iago92.newsapp.core.ArticleDB;
-
 import com.example.iago92.newsapp.core.ArticleListAdapterDB;
-
-
 
 public class SavedArticlesActivity extends AppCompatActivity{
 
@@ -22,10 +19,21 @@ public class SavedArticlesActivity extends AppCompatActivity{
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
     private ArticleDB articleDB;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar.setNavigationIcon(R.drawable.ic_menu_back);
+        toolbar.setTitle("Artículos guardados");
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
+
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view);
         mRecyclerView.setHasFixedSize(true);
 

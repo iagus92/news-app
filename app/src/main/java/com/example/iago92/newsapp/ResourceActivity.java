@@ -141,9 +141,9 @@ public class ResourceActivity extends AppCompatActivity
 
     public void menuAction(){
         if(category != null && category.equals("saved-articles")){
-            Intent myIntent = new Intent(getApplicationContext(), SavedArticlesActivity.class);
+            Intent myIntent = new Intent(this, SavedArticlesActivity.class);
             myIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-            getApplicationContext().startActivity(myIntent);
+            this.startActivity(myIntent);
         }else{
             api();
         }

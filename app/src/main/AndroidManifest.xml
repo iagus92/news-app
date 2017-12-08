@@ -12,10 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ArticleActivity"
-            android:label="@string/articles"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity
             android:name=".ResourceActivity"
             android:label="@string/resources"
             android:theme="@style/AppTheme.NoActionBar">
@@ -25,12 +21,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ArticleActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".ArticleDetailActivity"
             android:label="@string/article"></activity>
         <activity android:name=".ArticleWebView"
             android:label="@string/webView"></activity>
         <activity android:name=".SavedArticlesActivity"
-            android:label="@string/savedArticles"></activity>
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

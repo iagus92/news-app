@@ -51,8 +51,10 @@ public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
         // - get element from your dataset at this position
-        Picasso.with(holder.imageView.getContext()).
-                load(mDataset.get(position).getUrlToImage()).into(holder.imageView);
+        if(mDataset.get(position).getUrlToImage() != null)
+            Picasso.with(holder.imageView.getContext()).
+                load(mDataset.get(position).getUrlToImage()).
+                    centerCrop().into(holder.imageView);
         holder.mTextView.setText(mDataset.get(position).getTitle());
         holder.setClickListener(new ItemClickListener() {
             @Override

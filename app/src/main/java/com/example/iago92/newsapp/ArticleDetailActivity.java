@@ -30,7 +30,6 @@ public class ArticleDetailActivity extends AppCompatActivity {
         this.getSupportActionBar().hide();
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar_detail);
         toolbar.setNavigationIcon(R.drawable.ic_menu_back);
-
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -58,7 +57,8 @@ public class ArticleDetailActivity extends AppCompatActivity {
         description.setText(article.getDescription());
 
         Button boton = (Button) findViewById(R.id.url);
-        Picasso.with(getApplicationContext()).load(article.getUrlToImage()).into(image);
+        if(article.getUrlToImage() != null)
+            Picasso.with(getApplicationContext()).load(article.getUrlToImage()).into(image);
 
         boton.setOnClickListener(new View.OnClickListener() {
             @Override

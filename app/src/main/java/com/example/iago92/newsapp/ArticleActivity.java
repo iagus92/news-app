@@ -8,6 +8,7 @@ import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.View;
 import android.widget.Toast;
 import com.example.iago92.newsapp.core.ArticleListAdapter;
 import com.example.iago92.newsapp.core.ApiEndpoint;
@@ -33,9 +34,16 @@ public class ArticleActivity extends AppCompatActivity{
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         toolbar.setTitle(R.string.articles);
+        toolbar.setNavigationIcon(R.drawable.ic_menu_back);
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
+
         data = this.getIntent();
         id = data.getStringExtra("id");
-        //toolbar.setTitle(id);
 
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view);
         mRecyclerView.setHasFixedSize(true);
