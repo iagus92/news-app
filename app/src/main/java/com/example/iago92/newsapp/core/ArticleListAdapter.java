@@ -54,7 +54,7 @@ public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.
         if(mDataset.get(position).getUrlToImage() != null)
             Picasso.with(holder.imageView.getContext()).
                 load(mDataset.get(position).getUrlToImage()).
-                    centerCrop().into(holder.imageView);
+                    into(holder.imageView);
         holder.mTextView.setText(mDataset.get(position).getTitle());
         holder.setClickListener(new ItemClickListener() {
             @Override
