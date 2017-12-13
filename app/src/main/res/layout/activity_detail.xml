@@ -24,17 +24,28 @@
     <TextView
         android:id="@+id/title"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:textAlignment="center"/>
 
     <TextView
         android:id="@+id/author"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textAlignment="textEnd"
+        android:layout_marginRight="5dp"
+        android:textSize="12dp"/>
 
     <TextView
         android:id="@+id/date"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textAlignment="textEnd"
+        android:layout_marginRight="5dp"
+        android:textSize="12dp"
+        android:layout_marginBottom="20dp"/>
 
     <ImageView
         android:id="@+id/image"
@@ -45,12 +56,18 @@
     <TextView
         android:id="@+id/description"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="12dp"
+        android:typeface="sans"
+        android:layout_marginBottom="10dp"/>
 
     <Button
         android:id="@+id/url"
         android:text="@string/readMore"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="15dp"/>
 
 </LinearLayout>

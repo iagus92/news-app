@@ -109,6 +109,8 @@ public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.
             v.setTag(v);
             imageView.setOnClickListener(this);
             imageView.setOnLongClickListener(this);
+            mTextView.setOnClickListener(this);
+            mTextView.setOnLongClickListener(this);
         }
 
         public void setClickListener(ItemClickListener itemClickListener) {
