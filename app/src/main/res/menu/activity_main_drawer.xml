@@ -4,43 +4,43 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_business"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_business"
             android:title="@string/business" />
         <item
             android:id="@+id/nav_entertainment"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_entertaiment"
             android:title="@string/entertainment" />
         <item
             android:id="@+id/nav_gaming"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_gaming"
             android:title="@string/gaming" />
         <item
             android:id="@+id/nav_general"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_general"
             android:title="@string/general" />
         <item
             android:id="@+id/nav_music"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_music"
             android:title="@string/music" />
         <item
             android:id="@+id/nav_politics"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_politics"
             android:title="@string/politics" />
         <item
             android:id="@+id/nav_science"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_science"
             android:title="@string/science" />
         <item
             android:id="@+id/nav_sport"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_sports"
             android:title="@string/sports" />
         <item
             android:id="@+id/nav_technology"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_menu_tech"
             android:title="@string/tech" />
         <item
             android:id="@+id/nav_savedArticles"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_menu_save"
             android:title="@string/savedArticles" />
     </group>
 
